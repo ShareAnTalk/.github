@@ -1,4 +1,5 @@
 # <a href="https://play.google.com/store/apps/details?id=com.shareinvest.antech"><img height=24 src=https://github.com/ShareAnTalk/Kiwoom/assets/134266635/9c90294a-73ac-4df3-bcc6-b31dfeb2639e /></a> 동학개미운동 by **AnTech**
+<a href="https://play.google.com/store/apps/details?id=com.shareinvest.antech"><img height=385 src=https://github.com/ShareAnTalk/Kiwoom/assets/134266635/c3d5b766-8c1a-4abd-b7f2-a53db810894c /></a> 
 <a href="https://play.google.com/store/apps/details?id=com.shareinvest.antech"><img height=385 src=https://github.com/ShareAnTalk/Kiwoom/assets/48705422/1d886160-9daf-47f4-8bf0-af1586e13454 /></a>
 # <a href=https://github.com/Share-Invest/securities-modules><img height=32 src=https://user-images.githubusercontent.com/48705422/244874765-84542955-0cb8-4961-a546-388c7f391e61.png></a> 동학개미운동 by **AnTalk**
 <a href=http://share.enterprises><img src=https://github.com/Share-Invest/securities-modules/assets/48705422/d9201451-b048-41b3-aa3c-52f130957e44></a>
