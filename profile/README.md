@@ -4,6 +4,10 @@
 <a href="https://play.google.com/store/apps/details?id=com.shareinvest.antech"><img height=384 src=https://github.com/ShareAnTalk/Kiwoom/assets/134266635/c3d5b766-8c1a-4abd-b7f2-a53db810894c /></a> 
 <a href="https://play.google.com/store/apps/details?id=com.shareinvest.antech"><img height=384 src=https://github.com/ShareAnTalk/Kiwoom/assets/48705422/1d886160-9daf-47f4-8bf0-af1586e13454 /></a>  
 # 
+### · [![OS](https://img.shields.io/badge/android-3DDC84?style=plastic&logo=android&logoColor=white)](https://developer.android.com) **G965N**
+<a href="https://play.google.com/store/apps/details?id=com.shareinvest.antech"><img height=384 src=https://github.com/ShareAnTalk/Kiwoom/assets/48705422/3324a55f-1717-4aa3-a9f3-bb203ff0bbd2 /></a> 
+<a href="https://play.google.com/store/apps/details?id=com.shareinvest.antech"><img height=384 src=https://github.com/ShareAnTalk/Kiwoom/assets/48705422/9001243e-a2de-407c-9a8b-a62add998510 /></a>  
+# 
 ### · [![OS](https://img.shields.io/badge/ios-000000?style=flat&logoColor=white)](https://developer.apple.com) **SE**
 <img width=181.9 src=https://github.com/ShareAnTalk/Kiwoom/assets/48705422/a4a6073e-67ab-4e27-be52-d346339504c5 /> 
 <img width=181.9 src=https://github.com/ShareAnTalk/Kiwoom/assets/48705422/0473bc1e-e578-4bd6-a457-c51083e9f410 /> 
