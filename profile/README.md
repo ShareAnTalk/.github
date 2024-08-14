@@ -1,13 +1,13 @@
 # <a href="https://play.google.com/store/apps/details?id=com.shareinvest.antech"><img height=24 src=https://github.com/ShareAnTalk/Kiwoom/assets/134266635/9c90294a-73ac-4df3-bcc6-b31dfeb2639e /></a> 동학개미운동 by **AnTech**
 
 ### · [![OS](https://img.shields.io/badge/android-3DDC84?style=plastic&logo=android&logoColor=white)](https://developer.android.com) **G977N**
-<a href="https://play.google.com/store/apps/details?id=com.shareinvest.antech"><img height=270.25 src=https://github.com/ShareAnTalk/Kiwoom/assets/134266635/c3d5b766-8c1a-4abd-b7f2-a53db810894c /></a> 
+<a href="https://play.google.com/store/apps/details?id=com.shareinvest.algorithmic.mobile"><img height=270.25 src=https://github.com/ShareAnTalk/Kiwoom/assets/134266635/c3d5b766-8c1a-4abd-b7f2-a53db810894c /></a> 
 <a href="https://play.google.com/store/apps/details?id=com.shareinvest.antech"><img height=270.25 src=https://github.com/ShareAnTalk/Kiwoom/assets/48705422/1d886160-9daf-47f4-8bf0-af1586e13454 /></a>
-<a href="https://play.google.com/store/apps/details?id=com.shareinvest.antech"><img height=270.25 src=https://github.com/user-attachments/assets/8e27676f-3dc4-42f1-98b1-b8d574764c34 /></a>
+<a href="https://play.google.com/store/apps/details?id=com.shareinvest.algorithmic.mobile"><img height=270.25 src=https://github.com/user-attachments/assets/8e27676f-3dc4-42f1-98b1-b8d574764c34 /></a>
 <a href="https://play.google.com/store/apps/details?id=com.shareinvest.antech"><img height=270.25 src=https://github.com/user-attachments/assets/d27b432e-06d2-4491-b9eb-5f6e7d98f18e /></a>
 # 
 ### · [![OS](https://img.shields.io/badge/android-3DDC84?style=plastic&logo=android&logoColor=white)](https://developer.android.com) **G965N**
-<a href="https://play.google.com/store/apps/details?id=com.shareinvest.antech"><img width=128 src=https://github.com/ShareAnTalk/Kiwoom/assets/48705422/3324a55f-1717-4aa3-a9f3-bb203ff0bbd2 /></a> 
+<a href="https://play.google.com/store/apps/details?id=com.shareinvest.algorithmic.mobile"><img width=128 src=https://github.com/ShareAnTalk/Kiwoom/assets/48705422/3324a55f-1717-4aa3-a9f3-bb203ff0bbd2 /></a> 
 <a href="https://play.google.com/store/apps/details?id=com.shareinvest.antech"><img width=128 src=https://github.com/ShareAnTalk/Kiwoom/assets/48705422/9001243e-a2de-407c-9a8b-a62add998510 /></a>
 <img width=128 src= https://github.com/ShareAnTalk/Kiwoom/assets/48705422/0916609b-e44e-4d49-8cb7-597a34a59c97/>
 <img width=128 src= https://github.com/ShareAnTalk/Kiwoom/assets/48705422/c11c82db-8418-4a51-af1d-f614ea63d781/>
