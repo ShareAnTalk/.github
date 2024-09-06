@@ -1,8 +1,14 @@
 # <a href="https://play.google.com/store/apps/details?id=com.shareinvest.antech"><img height=24 src=https://github.com/ShareAnTalk/Kiwoom/assets/134266635/9c90294a-73ac-4df3-bcc6-b31dfeb2639e /></a> 동학개미운동 by **AnTech**
 
-### · [![OS](https://img.shields.io/badge/android-3DDC84?style=plastic&logo=android&logoColor=white)](https://developer.android.com) **G977N**
-<a href="https://play.google.com/store/apps/details?id=com.shareinvest.algorithmic.mobile"><img height=270.25 src=https://github.com/ShareAnTalk/Kiwoom/assets/134266635/c3d5b766-8c1a-4abd-b7f2-a53db810894c /></a> 
-<a href="https://play.google.com/store/apps/details?id=com.shareinvest.antech"><img height=270.25 src=https://github.com/ShareAnTalk/Kiwoom/assets/48705422/1d886160-9daf-47f4-8bf0-af1586e13454 /></a>
+### · [![OS](https://img.shields.io/badge/android-3DDC84?style=plastic&logo=android&logoColor=white)](https://developer.android.com) **G991N** (Android 14.0 - API 34)
+<a href="https://play.google.com/store/apps/details?id=com.shareinvest.algorithmic.mobile"><img width=128 src=https://github.com/user-attachments/assets/331f8fc4-c640-47db-8254-6f85b558221f /></a> 
+<a href="https://play.google.com/store/apps/details?id=com.shareinvest.algorithmic.mobile"><img width=128 src=https://github.com/user-attachments/assets/1800b616-cda7-4787-be1f-7c9cf2e8e752 /></a> 
+<a href="https://play.google.com/store/apps/details?id=com.shareinvest.antech"><img width=128 src=https://github.com/user-attachments/assets/7b025e6f-467b-4497-811b-5f540d07dae1 /></a> 
+<a href="https://play.google.com/store/apps/details?id=com.shareinvest.antech"><img width=128 src=https://github.com/user-attachments/assets/501f9a4f-9de8-4701-8344-97a7d1e58dc9 /></a> 
+# 
+### · [![OS](https://img.shields.io/badge/android-3DDC84?style=plastic&logo=android&logoColor=white)](https://developer.android.com) **G977N** (Android 12.0 - API 31)
+<a href="https://play.google.com/store/apps/details?id=com.shareinvest.algorithmic.mobile"><img width=128 src=https://github.com/ShareAnTalk/Kiwoom/assets/134266635/c3d5b766-8c1a-4abd-b7f2-a53db810894c /></a> 
+<a href="https://play.google.com/store/apps/details?id=com.shareinvest.antech"><img width=128 src=https://github.com/ShareAnTalk/Kiwoom/assets/48705422/1d886160-9daf-47f4-8bf0-af1586e13454 /></a>
 # 
 ### · [![OS](https://img.shields.io/badge/android-3DDC84?style=plastic&logo=android&logoColor=white)](https://developer.android.com) **G965N** (Android 10.0 - API 29)
 <a href="https://play.google.com/store/apps/details?id=com.shareinvest.algorithmic.mobile"><img width=128 src=https://github.com/ShareAnTalk/Kiwoom/assets/48705422/3324a55f-1717-4aa3-a9f3-bb203ff0bbd2 /></a> 
