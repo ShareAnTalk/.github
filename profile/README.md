@@ -3,8 +3,6 @@
 ### · [![OS](https://img.shields.io/badge/android-3DDC84?style=plastic&logo=android&logoColor=white)](https://developer.android.com) **G977N**
 <a href="https://play.google.com/store/apps/details?id=com.shareinvest.algorithmic.mobile"><img height=270.25 src=https://github.com/ShareAnTalk/Kiwoom/assets/134266635/c3d5b766-8c1a-4abd-b7f2-a53db810894c /></a> 
 <a href="https://play.google.com/store/apps/details?id=com.shareinvest.antech"><img height=270.25 src=https://github.com/ShareAnTalk/Kiwoom/assets/48705422/1d886160-9daf-47f4-8bf0-af1586e13454 /></a>
-<a href="https://play.google.com/store/apps/details?id=com.shareinvest.algorithmic.mobile"><img height=270.25 src=https://github.com/user-attachments/assets/8e27676f-3dc4-42f1-98b1-b8d574764c34 /></a>
-<a href="https://play.google.com/store/apps/details?id=com.shareinvest.antech"><img height=270.25 src=https://github.com/user-attachments/assets/d27b432e-06d2-4491-b9eb-5f6e7d98f18e /></a>
 # 
 ### · [![OS](https://img.shields.io/badge/android-3DDC84?style=plastic&logo=android&logoColor=white)](https://developer.android.com) **G965N** (Android 10.0 - API 29)
 <a href="https://play.google.com/store/apps/details?id=com.shareinvest.algorithmic.mobile"><img width=128 src=https://github.com/ShareAnTalk/Kiwoom/assets/48705422/3324a55f-1717-4aa3-a9f3-bb203ff0bbd2 /></a> 
@@ -12,12 +10,17 @@
 <img width=128 src= https://github.com/ShareAnTalk/Kiwoom/assets/48705422/0916609b-e44e-4d49-8cb7-597a34a59c97/>
 <img width=128 src= https://github.com/ShareAnTalk/Kiwoom/assets/48705422/c11c82db-8418-4a51-af1d-f614ea63d781/>
 # 
+### · [![OS](https://img.shields.io/badge/android-3DDC84?style=plastic&logo=android&logoColor=white)](https://developer.android.com) **G950N** (Android 9.0 - API 28)
+<a href="https://play.google.com/store/apps/details?id=com.shareinvest.algorithmic.mobile"><img width=128 src=https://github.com/user-attachments/assets/bef624f3-b899-4f08-8893-4284186569ef /></a> 
+<a href="https://play.google.com/store/apps/details?id=com.shareinvest.algorithmic.mobile"><img width=128 src=https://github.com/user-attachments/assets/bd578238-f2eb-4bbb-ab39-4ba2c90dd80c /></a> 
+<a href="https://play.google.com/store/apps/details?id=com.shareinvest.antech"><img width=128 src=https://github.com/user-attachments/assets/69e4e8d8-3050-4b2f-9efd-096e42847161 /></a>
+<a href="https://play.google.com/store/apps/details?id=com.shareinvest.antech"><img width=128 src=https://github.com/user-attachments/assets/965be1ec-2a37-4e3b-97f3-83972e959ff1 /></a>
+# 
 ### · [![OS](https://img.shields.io/badge/android-3DDC84?style=plastic&logo=android&logoColor=white)](https://developer.android.com) **A520K** (Android 8.0 - API 26) 
 <a href="https://play.google.com/store/apps/details?id=com.shareinvest.antech"><img width=128 src=https://github.com/user-attachments/assets/aa153ea4-da5c-4bf4-9be2-c8403434c7fd /></a>
 <a href="https://play.google.com/store/apps/details?id=com.shareinvest.antech"><img width=128 src=https://github.com/user-attachments/assets/e0d7a7b9-1291-49fc-8e77-24ae466d5851 /></a>
 <a href="https://play.google.com/store/apps/details?id=com.shareinvest.algorithmic.mobile"><img width=128 src=https://github.com/user-attachments/assets/a8215c10-ae72-4cf5-93cf-3ea6b5e18117 /></a>
 <a href="https://play.google.com/store/apps/details?id=com.shareinvest.algorithmic.mobile"><img width=128 src=https://github.com/user-attachments/assets/6affc23e-a6a5-48bc-8637-e746b6b99506 /></a> 
-
 # 
 ### · [![OS](https://img.shields.io/badge/android-3DDC84?style=plastic&logo=android&logoColor=white)](https://developer.android.com) **N920S** (Android 7.0 - API 24) 
 <a href="https://play.google.com/store/apps/details?id=com.shareinvest.algorithmic.mobile"><img width=128 src=https://github.com/user-attachments/assets/541d2af2-5b15-42a6-b31e-c036af780540 /></a>
